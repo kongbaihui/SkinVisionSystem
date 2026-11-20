@@ -1,0 +1,20 @@
+# Python 3.10-3.12. Install torch/torchvision CPU or CUDA wheels first.
+torch==2.4.1
+torchvision==0.19.1
+numpy==1.26.4
+pillow==11.3.0
+opencv-python-headless==4.11.0.86
+timm==0.9.16
+einops==0.8.1
+fastapi==0.115.12
+uvicorn==0.34.2
+httpx==0.28.1
+python-multipart==0.0.20
+python-dotenv==1.1.0
+bcrypt==4.3.0
+python-jose[cryptography]==3.4.0
+email-validator==2.2.0
+sqlalchemy==2.0.40
+alembic==1.15.2
+reportlab==4.4.10
+safetensors==0.8.0

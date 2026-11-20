@@ -1,0 +1,2 @@
+# Runtime + training compatibility entry point
+-r requirements/training.txt
